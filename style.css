@@ -276,7 +276,6 @@ nav ul li a:hover::after {
     padding: 25px 0;
     background: #ed21a9;
     font-weight: 300;
-    margin: 20px;
 }
 
 .copyright i {
